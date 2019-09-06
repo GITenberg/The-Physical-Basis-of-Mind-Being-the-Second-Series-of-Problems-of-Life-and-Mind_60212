@@ -1,0 +1,32 @@
+_repo: The-Physical-Basis-of-Mind-Being-the-Second-Series-of-Problems-of-Life-and-Mind_60212
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lewes, George Henry
+    aliases:
+    - Lewes, G. H. (George Henry)
+    - Lawrence, Slingsby
+    birthdate: 1817
+    deathdate: 1878
+    gutenberg_agent_id: '3529'
+    url: http://www.gutenberg.org/2009/agents/3529
+    wikipedia: http://en.wikipedia.org/wiki/George_Henry_Lewes
+description: ''
+gutenberg_issued: '2019-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychophysiology'
+- !lcsh 'Mind and body'
+- !lcc 'B'
+- GITenberg
+tableOfContents: Preface -- The nature of life -- The nervous mechanism -- Animal
+  automatism -- The reflex theory.
+title: "The Physical Basis of Mind\r\nBeing the Second Series of Problems of Life\
+  \ and Mind."
+url: http://www.gutenberg.org/ebooks/60212
